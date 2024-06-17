@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    font-family: 'Open Sans';
+    font-weight: 300;
+    background: linear-gradient(to right, #f857a6, #ff5858);
+    height: 100%;
+    text-align: left;
+}
+
+h1 {
+    text-indent: 2%;
+}
+
+p {
+    text-indent: 2%
+}
+
+ol {
+    padding-left: 30px;
+}

@@ -1,0 +1,57 @@
+.complete {
+    text-decoration: line-through;
+}
+
+.highPriority{
+    color:crimson
+}
+.lowPriority{
+    color:darkgoldenrod
+}
+
+.box {
+    background-color: white;
+    width: 90%;
+    height: auto;
+    border: 1px solid grey;
+    padding: 1%;
+    margin:auto;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 10px;
+}
+
+.taskBox {
+    width: 90%;
+    height: auto;
+    border: .5px solid grey;
+    padding: 1.5%;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.submitButton {
+    background:#ff1493;
+    color: white;
+    border: #eee;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.completeButton {
+    color: #ff69b4;
+    border: 1px solid #ff69b4;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.deleteButton {
+    border: white;
+    background-color: white;
+    float:right;
+    padding-right: 5%;
+    font-weight: 500;
+}
+
+.text {
+    width: 98%;
+}
